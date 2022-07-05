@@ -1,0 +1,5 @@
+dark:#007EB7,#0080B8
+dark2:#088BC6
+light:#21AEF1
+lighterdark:#179FDF,#1298D7
+#21AEF1
